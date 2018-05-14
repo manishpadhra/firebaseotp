@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">firebaseotp</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="hint_phone_number">Enter Phone Number</string>
+    <string name="hint_verification_code">Verification Code</string>
+    <string name="start_phone_auth">Start</string>
+    <string name="verify_phone_auth">Verify</string>
+    <string name="resend_phone_auth">Resend</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- Facebook application ID and custom URL scheme (app ID prefixed by 'fb'). -->
+    <string name="facebook_application_id" translatable="false">160172041344849</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb160172041344849</string>
+    <string name="add_ask_content">Add Ask Content</string>
+    <string name="write_something_here">Write something here...</string>
+    <string name="post">Post</string>
+</resources>

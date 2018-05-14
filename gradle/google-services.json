@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "319991719468",
+    "firebase_url": "https://succor-a7013.firebaseio.com",
+    "project_id": "succor-a7013",
+    "storage_bucket": "succor-a7013.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319991719468:android:b6cd57bec0321c9d",
+        "android_client_info": {
+          "package_name": "com.ztobit.firebaseotp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319991719468-1qrdretv0va48u73p3p7r7o8gusneq7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA84eIpEVar-6kS8vE_Dvye7p_7UQ22d4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

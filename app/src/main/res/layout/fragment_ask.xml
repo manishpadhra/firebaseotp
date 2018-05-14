@@ -1,0 +1,39 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/grey_100"
+    android:paddingTop="20dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/add_ask_content"
+        android:textSize="20sp"
+        android:layout_gravity="center_vertical"
+
+        android:textColor="#303030"/>
+
+    <EditText
+        android:id="@+id/content"
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:focusedByDefault="true"
+        android:hint="@string/write_something_here"/>
+    <Button
+        android:id="@+id/ask_post"
+        android:padding="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="#ff9900"
+        android:textColor="#ffffff"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:text="@string/post"/>
+
+</LinearLayout>
